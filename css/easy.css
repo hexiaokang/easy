@@ -2,6 +2,9 @@
 	margin: 0px;
 	padding:0px;
 	box-sizing: border-box;
+	background-origin: border-box;
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
 }
 button{
 	border: 0px;
